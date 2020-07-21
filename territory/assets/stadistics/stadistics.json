@@ -1,0 +1,16 @@
+{
+  "Persa":{
+    "wins":0,
+    "defeats":0,
+    "draws":0
+  },
+  "Siames":{
+    "wins":0,
+    "defeats":0,
+    "draws":0
+  },
+  "Game":{
+    "plays":0
+  }
+
+}
